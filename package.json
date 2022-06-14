@@ -1,8 +1,7 @@
 {
-  "name": "react-battleships",
+  "name": "battleships",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://isaiahaiasi.github.io/react-battleships",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
